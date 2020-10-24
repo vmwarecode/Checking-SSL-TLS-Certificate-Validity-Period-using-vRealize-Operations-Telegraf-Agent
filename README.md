@@ -1,1 +1,0 @@
-# Checking-SSL-TLS-Certificate-Validity-Period-using-vRealize-Operations-Telegraf-Agent
